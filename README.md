@@ -10,3 +10,5 @@
 
 
 [Lab04 1/14/2022](https://zjuarez.github.io/DesarrolloWebLaboratorios2022/Lab04/)
+
+[Lab06 1/20/2022](https://zjuarez.github.io/DesarrolloWebLaboratorios2022/Lab06/)
