@@ -61,3 +61,43 @@ button{
 }.itemShop{
     font-style: italic;
 }
+.li{
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.checked{
+    text-decoration: line-through;
+}
+.notchecked{
+    background-color: #ffffff;
+}
+.li > h3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.button{
+    float: left;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.check{
+background-color: lightcyan;
+}
+.dele{
+    background-color: rgba(240, 128, 128, 0.4);
+}
+.check:hover{
+    background-color: cyan;
+}
+.dele:hover{
+    background-color: lightcoral;
+}
+.button:hover{
+    cursor: pointer;
+}
